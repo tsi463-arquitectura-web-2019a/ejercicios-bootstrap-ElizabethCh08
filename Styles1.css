@@ -1,0 +1,18 @@
+.Principal{
+	margin: 0 auto;
+	width: 600px;
+}
+
+
+.titulo{
+	padding-top: 16px;
+	background-color: #33bebe;
+	color: #ffffff;
+	font-family: "Arial"
+}
+
+.parrafo{
+	color: #7c8b88;
+	margin: 0;
+	
+}

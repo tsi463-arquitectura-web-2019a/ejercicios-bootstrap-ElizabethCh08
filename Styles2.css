@@ -1,0 +1,43 @@
+.div_Verde{
+	background-color: #8BCC98;
+	height: 4px;
+	border: solid #8BCC98;
+}
+.recuadro{
+  position: absolute;
+  margin: 0 auto;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 18px;
+  border: 1px solid white;  
+  color: white;
+  text-align: center;
+  padding-right: 30px ;
+  padding-left:  30px;
+   
+}
+
+.titulo{
+	margin-top: -1px;
+	padding-bottom: 5%;
+}
+.subtitulo{
+    margin-top: -25px;
+}
+.fondo{
+	    background-color: #E8E8E7;
+}
+.texto{
+	margin-left:22%;
+	margin-right:22%;
+	padding-left:5%;
+	padding-right: 5%;
+	background-color: white;
+	font-family: times new roman;
+
+}
+
+.pad{
+	padding-top: 20px;	
+}
